@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hello there I’m Pablo Hermun
 
+I'm a Data Analyst and a multidisciplinary thinker with a background in **Physics**, and hands on experience on **programming and automation**.
 <!--
 **PabloHermun/pablohermun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
