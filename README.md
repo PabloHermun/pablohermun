@@ -3,26 +3,28 @@
 I'm a Data Analyst and a multidisciplinary thinker with a background in **Physics**, and hands on experience on **programming, automation, and linux systems administration**.
 Naturally curious and proactive, always seeking opportunities to optimize workflows through data and build understanding through visualization.
 
-"Having the data is not enough, I have to show it ways people both enjoy and understand." - Hans Rosling
+In my free time I also play the violin 🎻 and do rock climbing 🧗🏼.
+
+### *"Having the data is not enough, I have to show it ways people both enjoy and understand."* - Hans Rosling
 <!--
 **PabloHermun/pablohermun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ##
 
-- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my project here: [Music Listening Analysis](https://github.com/PabloHermun/music_listening) 
+- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [Music Listening Analysis](https://github.com/PabloHermun/music_listening)
+<!--
 
+- Take a look at my largest completed projects here:
+Thesis repo & Qatar repo
+-->
 ## 🔧 Tools & Technologies
 
 - **Languages**: Python, C, Matlab, HTML/CSS, JavaScript, Bash
