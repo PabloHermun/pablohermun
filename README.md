@@ -6,7 +6,7 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 In my free time I also play the violin 🎻 and do rock climbing 🧗🏼.
 
 ##
-### *"Having the data is not enough, I have to show it ways people both enjoy and understand."* - Hans Rosling
+### *"Having the data is not enough, I have to show it in ways people both enjoy and understand."* - Hans Rosling
 <!--
 **PabloHermun/pablohermun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
