@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my project here: [Music Listener Analysis](https://github.com/PabloHermun/music_listening) 
+##
+
+- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my project here: [Music Listening Analysis](https://github.com/PabloHermun/music_listening) 
 
 ## 🔧 Tools & Technologies
 
