@@ -28,9 +28,9 @@ Thesis repo & Qatar repo
 ## 🔧 Tools & Technologies
 
 - **Languages**: Python, C, Matlab, HTML/CSS, JavaScript, Bash
-- **Libraries**: NumPy, pandas, scikit-learn, Matplotlib
+- **Python Libraries**: NumPy, pandas, scikit-learn, Matplotlib, SciPy
 - **Tools**: Jupyter, Git, LaTeX, VS Code
-- **Fields**: Data Analytics, Machine Learning, Signal Processing, Optics
+- **Fields**: Data Analytics, Signal Processing, Optics, Machine Learning, Web Development
 
 ## 🎯 Interests
 
