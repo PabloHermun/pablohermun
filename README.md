@@ -14,7 +14,7 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [Music Listening Analysis](https://github.com/PabloHermun/music_listening)
+- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [Telecom_income]([https://github.com/PabloHermun/music_listening](https://github.com/PabloHermun/Telecom_income.git))
 
 ##
 ### *"Having the data is not enough, I have to show it in ways people both enjoy and understand."* - Hans Rosling
