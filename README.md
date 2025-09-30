@@ -14,17 +14,17 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [Telecom_income](https://github.com/PabloHermun/Telecom_income.git)
-
+- 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [videogames_succes](https://github.com/PabloHermun/videogames_succes.git)
 ##
 ### *"Having the data is not enough, I have to show it in ways people both enjoy and understand."* - Hans Rosling
 
 ##
-<!--
 
-- Take a look at my largest completed projects here:
-Thesis repo & Qatar repo
--->
+- Take a look at some of my biggest projects here:
+[videogames_succes](https://github.com/PabloHermun/videogames_succes.git)
+[Sono Optics Thesis – Optical and Acoustic Levitation](https://github.com/PabloHermun/Sono_Optics_Thesis.git)
+[Qatar2022 World Cup Simulator](https://github.com/PabloHermun/Qatar22-simulate.git)
+
 ## 🔧 Tools & Technologies
 
 - **Languages**: Python, C, Matlab, HTML/CSS, JavaScript, Bash
