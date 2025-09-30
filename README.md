@@ -20,10 +20,10 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 
 ##
 
-- Take a look at some of my biggest projects here:
-[videogames_succes](https://github.com/PabloHermun/videogames_succes.git)
-[Sono Optics Thesis – Optical and Acoustic Levitation](https://github.com/PabloHermun/Sono_Optics_Thesis.git)
-[Qatar2022 World Cup Simulator](https://github.com/PabloHermun/Qatar22-simulate.git)
+### 💼 Take a look at some of my biggest projects so far:
+- [videogames_succes](https://github.com/PabloHermun/videogames_succes.git)
+- [Sono Optics Thesis – Optical and Acoustic Levitation](https://github.com/PabloHermun/Sono_Optics_Thesis.git)
+- [Qatar2022 World Cup Simulator](https://github.com/PabloHermun/Qatar22-simulate.git)
 
 ## 🔧 Tools & Technologies
 
