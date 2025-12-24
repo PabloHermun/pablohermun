@@ -17,8 +17,8 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 - 🔭 I’m currently working on projects to enrich my data analytics skills, like the one on my repo: [videogames_succes](https://github.com/PabloHermun/videogames_succes.git)
 ##
 
-<h4 style="text-align: center;">
-"Having the data is not enough, I have to show it in ways people both enjoy and understand." - Hans Rosling
+<h4 align="center">
+<em>"Having the data is not enough, I have to show it in ways people both enjoy and understand."</em> - Hans Rosling
 </h4>
 
 ##
