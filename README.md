@@ -31,9 +31,10 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 ## 🔧 Tools & Technologies
 
 - **Languages**: Python, C, Matlab, HTML/CSS, JavaScript, Bash
-- **Python Libraries**: NumPy, pandas, scikit-learn, Matplotlib, SciPy, Seaborn
+- **Python Libraries**: NumPy, pandas, scikit-learn, Matplotlib, SciPy, Seaborn, Plotly, request
+- **Frameworks**: Flask, Streamlit
 - **Tools**: Jupyter, Git, LaTeX, VS Code
-- **Fields**: Data Analytics, Signal Processing, Optics, Machine Learning, Web Development
+- **Fields**: Data Analytics, Automation, Web Development, Machine Learning, Optics, Signal Processing
 
 ## 🎯 Interests
 
