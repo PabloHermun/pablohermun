@@ -50,5 +50,6 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 - ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloHermun&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohermun&theme=prussian&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohermun&theme=prussian&hide_border=true" alt="GH languages"/>
 </p>
