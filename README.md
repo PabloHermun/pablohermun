@@ -50,6 +50,6 @@ Naturally curious and proactive, always seeking opportunities to optimize workfl
 - ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohermun&theme=prussian&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohermun&theme=prussian&hide_border=true" alt="GH languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablohermun&theme=prussian&hide_border=true" alt="GH streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohermun&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="GH languages" />
 </p>
